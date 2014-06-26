@@ -7,5 +7,7 @@ tags:
 **O que corrigimos**
 
 \- Cores no heading do Collapse [#656](https://github.com/locaweb/locawebstyle/issues/656).
+
 \- Ajuste no tracking de eventos quando em Tour Guiado
+
 \- Ajustes no CSS para impressão
