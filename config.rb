@@ -68,9 +68,6 @@ end
 #   end
 # end
 
-#ignore files
-ignore "/v1/layouts/*.html"
-
 ####
 #### Versões e URL de downloads
 ####
@@ -78,7 +75,6 @@ set :only_assets, "http://assets.locaweb.com.br/locastyle/edge.zip"
 set :download_github, "https://github.com/locaweb/locawebstyle/archive/master.zip"
 set :download_github_v1, "https://github.com/locaweb/locawebstyle/archive/v1-legacy.zip"
 set :stable, "2.0.6"
-set :stable_v1, "1.2.22"
 set :stable_lwbar, "0.5"
 
 set :css_dir, 'assets/stylesheets'
@@ -92,7 +88,6 @@ set :bootstrap_cdn_css, '//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap
 set :bootstrap_cdn_js, '//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js'
 
 set :base_url, ""
-set :base_url_v1, "/v1"
 
 activate :directory_indexes
 activate :relative_assets
@@ -122,8 +117,7 @@ configure :build do
 		# First: gem install middleman-smusher
 		# require "middleman-smusher"
 		# activate :smusher
-		set :base_url, "/locawebstyle"
-		set :base_url_v1, "/locawebstyle/v1"
+		set :base_url, "/locawebstyle-v2"
 
 		# Or use a different image path
 		# set :http_path, "/Content/images/"
