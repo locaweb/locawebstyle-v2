@@ -48,6 +48,6 @@ O JQuery é o framework mais utilizado para controlar comportamentos de elemento
 
 ***Changelog***
 
-Para verificar o changelog, visite a página oficial: [http://locaweb.github.io/locawebstyle/changelog/](http://locaweb.github.io/locawebstyle/changelog/)
+Para verificar o changelog, visite a página oficial: [http://locaweb.github.io/locawebstyle/changelog/](http://locaweb.github.io/locawebstyle-v2/changelog/)
 
-Está procurando a documentação da primeira versão do Locastyle? [Vá para este link](http://locaweb.github.io/locawebstyle/v1/).
+Está procurando a documentação da primeira versão do Locastyle? [Vá para este link](http://locaweb.github.io/locawebstyle-v1).
