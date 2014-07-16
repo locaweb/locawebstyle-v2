@@ -26,7 +26,7 @@ Os arquivos de terceiros estão dentro da pasta /vendor/assets/javascripts e /ve
 ----
 
 
-Baseado em que?
+Baseado em quê?
 -----------
 Este projeto foi baseado em alguns frameworks já conhecidos de todos os desenvolvedores
 
