@@ -26,7 +26,7 @@ Os arquivos de terceiros estão dentro da pasta /vendor/assets/javascripts e /ve
 ----
 
 
-Baseado em que?
+Baseado em quê?
 -----------
 Este projeto foi baseado em alguns frameworks já conhecidos de todos os desenvolvedores
 
@@ -48,6 +48,6 @@ O JQuery é o framework mais utilizado para controlar comportamentos de elemento
 
 ***Changelog***
 
-Para verificar o changelog, visite a página oficial: [http://locaweb.github.io/locawebstyle/changelog/](http://locaweb.github.io/locawebstyle/changelog/)
+Para verificar o changelog, visite a página oficial: [http://locaweb.github.io/locawebstyle/changelog/](http://locaweb.github.io/locawebstyle-v2/changelog/)
 
-Está procurando a documentação da primeira versão do Locastyle? [Vá para este link](http://locaweb.github.io/locawebstyle/v1/).
+Está procurando a documentação da primeira versão do Locastyle? [Vá para este link](http://locaweb.github.io/locawebstyle-v1).
