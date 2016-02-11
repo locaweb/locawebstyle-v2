@@ -1,6 +1,9 @@
 Locaweb Style Guide
 =================
 
+[![Este projeto não é mais mantido, recomendamos o uso do locawebstyle (v3)](http://messages.hellobits.com/warning.svg?message=Este%20projeto%20n%C3%A3o%20%C3%A9%20mais%20mantido,%20recomendamos%20o%20uso%20do%20locawebstyle.)](https://github.com/locaweb/locawebstyle)
+
+
 [![Build Status](https://api.travis-ci.org/locaweb/locawebstyle.png?branch=master)](https://travis-ci.org/locaweb/locawebstyle)
 
 O Locaweb Style são os padrões de interface utilizados nos produtos da Locaweb. Ele explora um simples e flexível HTML, CSS e Javascript para as necessidades comuns na manutenção e criação dos nossos serviços.
