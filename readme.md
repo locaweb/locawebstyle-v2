@@ -1,7 +1,7 @@
 Locaweb Style Guide
 =================
 
-[![Este projeto não é mais mantido, recomendamos o uso do locawebstyle (v3)](http://messages.hellobits.com/warning.svg?message=Este%20projeto%20n%C3%A3o%20%C3%A9%20mais%20mantido,%20recomendamos%20o%20uso%20do%20locawebstyle%20https://github.com/locaweb/locawebstyle".)](https://github.com/locaweb/locawebstyle)
+[![Este projeto não é mais mantido, recomendamos o uso do locawebstyle (v3)](http://messages.hellobits.com/warning.svg?message=Este%20projeto%20n%C3%A3o%20%C3%A9%20mais%20mantido,%20recomendamos%20o%20uso%20do%20locawebstyle.)](https://github.com/locaweb/locawebstyle)
 
 
 [![Build Status](https://api.travis-ci.org/locaweb/locawebstyle.png?branch=master)](https://travis-ci.org/locaweb/locawebstyle)
